@@ -1,0 +1,45 @@
+
+.button1{
+  background-color: rgb(38, 0, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 150px;
+  
+  
+   
+  
+  
+  
+  
+  
+
+  
+ 
+  
+}
+
+  .container{
+
+    text-align: center;
+     display: flex;
+     align-items: center;
+     right: 40px;
+     
+     left: initial;
+     top: 50px;
+   }
+
+.button2{
+ background-color:red;
+ 
+ 
+ position: absolute;
+ right: 1100px;
+ 
+  
+  
+  
+   
+}
